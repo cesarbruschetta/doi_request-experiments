@@ -1,0 +1,4 @@
+# Common Python/Jupyter stuff
+.ipynb_checkpoints/
+__pycache__/
+venv/
